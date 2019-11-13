@@ -1,0 +1,5 @@
+wr=function(a,b,c) {
+  d=DeliveryManEval::aStarDM(a,b,c)
+  print(d$nextMove)
+  return (d)
+}

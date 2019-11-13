@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535448060229.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8D322BCF",
+    "lastKnownWriteTime" : 1537985870,
+    "last_content_update" : 1537985870431,
+    "path" : "~/My R Packages/AI Course/WheresCroc/R/WheresCroc.R",
+    "project_path" : "R/WheresCroc.R",
+    "properties" : {
+        "cursorPosition" : "69,96",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
